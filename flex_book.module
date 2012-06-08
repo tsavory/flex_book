@@ -5,5 +5,7 @@
     *
 */
 function flex_book_node_view($node, $view_mode, $langcode ) {
-
+if($node->type == 'flex_book'){
+  var_dump($node->field_load_js->value());
+}
 }
