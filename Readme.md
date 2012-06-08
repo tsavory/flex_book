@@ -1,1 +1,1 @@
-the Flex book module helps intergrate external flax book apps 
+Flex book module helps interrogate external flex book apps 
