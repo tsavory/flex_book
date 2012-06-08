@@ -1,0 +1,9 @@
+<?php
+
+/**
+    * Intergrates Flex Book web pages
+    *
+*/
+function flex_book_node_view($node, $view_mode, $langcode ) {
+
+}
